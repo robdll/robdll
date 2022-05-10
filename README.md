@@ -28,11 +28,13 @@
 
 # Subject Records
 
-- ⚡ Projects can be found @ [https://robertodilillo.dev/](https://robertodilillo.dev/)
+- ⚡ Projects can be found @ [robertodilillo.dev](https://robertodilillo.dev/)
 
-- 🎮 Hobbies include improving his 👤 **Cybersecurity**, 👾 **Game Development** and **Web Development** skills
+- 🎮 Hobbies include 👤 **Cybersecurity**, 👾 **Game Development** and **Web Development** skills
 
-- 📚 Found in [State University of Milan](https://www.unimi.it/it) database.  
+- 📚 Found in [State University of Milan](https://www.unimi.it/it) database. 
+
+- 🌆 [Github Skyline](https://skyline.github.com/robdll/2021)  
 
 - 📝 Contacts include [Resume](https://drive.google.com/file/d/1VlGMsW1KyT5xoS0eQoEwh78UIy58C1Sr/view?usp=sharing), [Linkedin](https://www.linkedin.com/in/roberto-di-lillo/), [stackoverflow](https://stackoverflow.com/users/2324133/koop4) and [Email](dilillo.roberto@gmail.com)
 
