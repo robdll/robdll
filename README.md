@@ -36,7 +36,7 @@
 
 - 🌆 [Github Skyline](https://skyline.github.com/robdll/2022)  
 
-- 📝 Contacts include [Resume]([https://drive.google.com/file/d/1VlGMsW1KyT5xoS0eQoEwh78UIy58C1Sr/view?usp=sharing](https://github.com/robdll/robdll.github.io/raw/master/resources/RobResume.pdf), [Linkedin](https://www.linkedin.com/in/roberto-di-lillo/), [stackoverflow](https://stackoverflow.com/users/2324133/koop4) and [Email](dilillo.roberto@gmail.com)
+- 📝 Contacts include [Resume](https://github.com/robdll/robdll.github.io/raw/master/resources/RobResume.pdf), [Linkedin](https://www.linkedin.com/in/roberto-di-lillo/), [stackoverflow](https://stackoverflow.com/users/2324133/koop4) and [Email](dilillo.roberto@gmail.com)
 
 <br>
 
