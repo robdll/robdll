@@ -1,44 +1,17 @@
-
-<h2 align="center" style="font-weight:700"> CONFIDENTIAL INFORMATION</h1>
-                                        
-                             #@@@#*******&@@@.          
-                          @@******************#@@           
-                        @&***********************@@         
-                      @@***************************@/       
-                     @@*****************************@       Name: Rob.dll
-                     @/*****************************@@      Age: 35
-                     @/*@@@********************(@@@*@@      Profession: Software Engineer
-                     @@*@@@@@@@@@#*#*****@@@@@@@@%**@/      Education: Computer Science
-                      @@*(#@@@@@@@@****&@@@@@@@@@**@@   
-                       @@**@(@@@@@@%***@@@@@@@&&**@@        portfolio: robertodilillo.dev
-                         @******/*********/******@*     
-                          @@*******************@@       
-                            @@***************@@         
-                              .@@*********@@,           
-                                  @@@/@@@               
-
-
 <span>![](https://komarev.com/ghpvc/?username=robdll)<span>
 
-<br>
+<h2 align="left" style="font-weight:700">ROB.DLL</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=robdll&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Hey there ✋ I am Rob 🤖  
+a SOFTWARE ENGINEER with with a highly focused problem-solving mindset and over a decade of experience in coding and building software.
 
-<br>
+- ⚡ Portfolio -> [robertodilillo.dev](https://robertodilillo.dev/)
 
-# Subject Records
-
-- ⚡ Projects can be found @ [robertodilillo.dev](https://robertodilillo.dev/)
-
-- 🎮 Hobbies include 👤 **Cybersecurity**, 👾 **Game Development** and **Web Development** skills
-
-- 📚 Found in [State University of Milan](https://www.unimi.it/it) database. 
-
-- 🌆 [Github Skyline](https://skyline.github.com/robdll/2022)  
-
-- 📝 Contacts include [Resume](https://github.com/robdll/robdll.github.io/raw/master/resources/RobResume.pdf), [Linkedin](https://www.linkedin.com/in/roberto-di-lillo/), [stackoverflow](https://stackoverflow.com/users/2324133/koop4) and [Email](dilillo.roberto@gmail.com)
+- 📝 Contacts -> [Resume](https://github.com/robdll/robdll.github.io/raw/master/resources/RobResume.pdf), [Linkedin](https://www.linkedin.com/in/roberto-di-lillo/), [stackoverflow](https://stackoverflow.com/users/2324133/koop4) and [Email](dilillo.roberto@gmail.com)
 
 <br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=robdll&theme=onedark&rank=SECRET,AAA,AA,A,B)
 
 # SkillSet 
 
@@ -77,4 +50,3 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robdll&show_icons=true&locale=en" alt="robdll" /></p>
