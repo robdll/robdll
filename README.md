@@ -1,6 +1,6 @@
-<span>![](https://komarev.com/ghpvc/?username=robdll)</span>
-
 <h2 align="left" style="font-weight:700">ROB.DLL</h1>
+
+<span>![](https://komarev.com/ghpvc/?username=robdll)</span>
 
 Hey there ✋ I am Rob 🤖  
 a SOFTWARE ENGINEER with with a highly focused problem-solving mindset and over a decade of experience in coding and building software.
