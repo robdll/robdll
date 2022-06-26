@@ -5,9 +5,9 @@
 Hey there ✋ I am Rob 🤖  
 a SOFTWARE ENGINEER with with a highly focused problem-solving mindset and over a decade of experience in coding and building software.
 
-- ⚡ Portfolio -> [robertodilillo.dev](https://robertodilillo.dev/)
-
-- 📝 Contacts -> [Resume](https://github.com/robdll/robdll.github.io/raw/master/resources/RobResume.pdf), [Linkedin](https://www.linkedin.com/in/roberto-di-lillo/), [stackoverflow](https://stackoverflow.com/users/2324133/koop4) and [Email](dilillo.roberto@gmail.com)
+- 🚀  Visit my [Portfolio](https://robertodilillo.dev/)
+- 🏆 Download my [Resume](https://github.com/robdll/robdll.github.io/raw/master/resources/RobResume.pdf)
+- 📞 Contacts me via [Linkedin](https://www.linkedin.com/in/roberto-di-lillo/), [stackoverflow](https://stackoverflow.com/users/2324133/koop4) or [Email](dilillo.roberto@gmail.com)
 
 <br>
 
