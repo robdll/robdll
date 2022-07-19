@@ -1,38 +1,65 @@
 <h2 align="left" style="font-weight:700">ROB.DLL</h1>
 
-<span>![](https://komarev.com/ghpvc/?username=robdll)</span>
+<a href="https://robertodilillo.dev">
+   <img src="https://img.shields.io/badge/-MySite-yellow?&style=for-the-badge" />
+</a>&nbsp;&nbsp;
+<a href="https://blog.robertodilillo.dev">
+   <img src="https://img.shields.io/badge/-MyBlog-orange?&style=for-the-badge" />
+</a>&nbsp;&nbsp;
+<a href="mailto:dilillo.roberto@gmail.com">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/roberto-di-lillo/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/rob_dll_dev">
+   <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=#40ABF2" />
+</a>&nbsp;&nbsp;
 
-Hey there ✋ I am Rob 🤖  
-a SOFTWARE ENGINEER with with a highly focused problem-solving mindset and over a decade of experience in coding and building software.
+## :space_invader: About
 
-- 🚀  Visit my [Portfolio](https://robertodilillo.dev/)
-- 🏆 Download my [Resume](https://github.com/robdll/robdll.github.io/raw/master/resources/RobResume.pdf)
-- 📞 Contacts me via [Linkedin](https://www.linkedin.com/in/roberto-di-lillo/), [stackoverflow](https://stackoverflow.com/users/2324133/koop4) or [Email](dilillo.roberto@gmail.com)
+:technologist:  I'm a Digital Nomad with a highly focused problem-solving mindset.  
+:hammer_and_wrench:  Coding since 2010 bulding software for both startups and enterprise.  
+📙  Learning cybersecurity on HackTheBox.  
+:writing_hand:  Coding anything possible on FreeCodeCamp
+:heartbeat:  Creating software withing the openSource community  
+:family_man_woman_girl_girl:  Living with my lovely wife
 
 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=robdll&theme=onedark&rank=SECRET,AAA,AA,A,B)
+<br>
+![](https://komarev.com/ghpvc/?username=robdll)
+
 
 # SkillSet 
 
 <p align="left"> 
 
-### WEB-DEV
+#### Web Development
 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="40" height="40"/> </a> 
-<a href="https://www.nodejs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="60" height="50"/> </a> 
+ 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=for-the-badge&logo=nuxtdotjs)
+![Angular.js](https://img.shields.io/badge/-Angular.js-%23C3042F?style=for-the-badge&logo=angularjs)
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
-### DEV-OPS 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-plain.svg" alt="Gatsby" width="40" height="40"/> </a>
-<a href="https://nextjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="50"/> </a>
+#### Backend & DEV-OPS 
+ 
+![Node](https://img.shields.io/badge/-Node-%2343853C?style=for-the-badge&logo=nodejs&logoColor=%23ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![docker](https://img.shields.io/badge/docker-%2340ABF2.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![graphql](https://img.shields.io/badge/graphql-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white)
+![aws](https://img.shields.io/badge/aws-%23EC912E.svg?&style=for-the-badge&logo=aws&logoColor=#white)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
+
 
 ### UX-UI
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -47,6 +74,6 @@ a SOFTWARE ENGINEER with with a highly focused problem-solving mindset and over 
 </p>
 
 
-
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=robdll&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 
