@@ -40,14 +40,16 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=for-the-badge&logo=nuxtdotjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)  
+
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=000)
+![NextJs](https://img.shields.io/badge/-NextJs-%23FFFFFF?style=for-the-badge)
 ![Angular.js](https://img.shields.io/badge/-Angular.js-%23C3042F?style=for-the-badge&logo=angularjs)
-![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
-![NextJs](https://img.shields.io/badge/-Next.js-%23282C34?style=for-the-badge&logo=nextjs&logo=react)
-![Node](https://img.shields.io/badge/-Node.js-%2343853C?style=for-the-badge&logo=nodejs&logoColor=%23ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%2300633B?style=for-the-badge&logo=nuxtdotjs&logoColor=FFF)  
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![Node](https://img.shields.io/badge/-Node.js-%2343853C?style=for-the-badge&logo=nodejs&logoColor=%23ffffff)
 ![docker](https://img.shields.io/badge/docker-%2340ABF2.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-%23EC912E.svg?&style=for-the-badge&logo=aws&logoColor=#white)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
