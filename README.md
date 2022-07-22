@@ -23,7 +23,7 @@
 :technologist:  I'm a Digital Nomad with a highly focused problem-solving mindset.  
 :hammer_and_wrench:  Coding since 2010 bulding software for both startups and enterprise.  
 📙  Learning cybersecurity on HackTheBox.  
-:writing_hand:  Coding anything possible on FreeCodeCamp
+:writing_hand:  Coding anything possible on FreeCodeCamp  
 :heartbeat:  Creating software withing the openSource community  
 :family_man_woman_girl_girl:  Living with my lovely wife
 
