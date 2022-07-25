@@ -1,7 +1,7 @@
 # :space_invader: ROB.DLL
 
 <a href="https://robertodilillo.dev">
-   <img src="https://img.shields.io/badge/-MySite-yellow?&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/-MySite-%23F7DF1C?&style=for-the-badge" />
 </a>&nbsp;&nbsp;
 <a href="https://blog.robertodilillo.dev">
    <img src="https://img.shields.io/badge/-MyBlog-orange?&style=for-the-badge" />
@@ -40,7 +40,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)  
 
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Angular.js](https://img.shields.io/badge/-Angular.js-%23C3042F?style=for-the-badge&logo=angularjs)
