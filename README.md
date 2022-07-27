@@ -24,7 +24,7 @@
 :hammer_and_wrench:  Working since 2010 with both startups and enterprise.  
 :writing_hand:  Writing about Javascript  
 :book:  Studying cybersecurity on HackTheBox.  
-:heartbeat:  Learning with the help of the opensource community 
+:heartbeat:  Learning with the help of the opensource community  
 :family_man_woman_girl_girl:  Living with my lovely wife in Brasil
 
 
