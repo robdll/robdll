@@ -32,7 +32,7 @@
 
 ![](https://komarev.com/ghpvc/?username=robdll)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=robdll&theme=onedark&rank=SECRET,AAA,AA,A,B)
+![trophy](https://github-profile-trophy.vercel.app/?username=robdll&theme=onedark&rank=SECRET,S,AAA,AA,A,B)
 <br>
 
 
