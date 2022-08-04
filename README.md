@@ -1,36 +1,34 @@
 # :space_invader: ROB.DLL
 
-<a href="https://robertodilillo.dev">
-   <img src="https://img.shields.io/badge/-MySite-%23F7DF1C?&style=for-the-badge" />
-</a>&nbsp;&nbsp;
-<a href="https://blog.robertodilillo.dev">
+![](https://komarev.com/ghpvc/?username=robdll&style=for-the-badge&color=red) 
+</a>
+&nbsp;&nbsp;<a href="https://robertodilillo.dev">
+   <img src="https://img.shields.io/badge/-Portfolio-%23F7DF1C?&style=for-the-badge" />
+</a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/roberto-di-lillo/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;<a href="https://blog.robertodilillo.dev">
    <img src="https://img.shields.io/badge/-MyBlog-orange?&style=for-the-badge" />
-</a>&nbsp;&nbsp;
-<a href="mailto:dilillo.roberto@gmail.com">
+</a>
+&nbsp;&nbsp;<a href="mailto:dilillo.roberto@gmail.com">
 <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/roberto-di-lillo/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/rob_dll_dev">
+&nbsp;&nbsp;<a href="https://twitter.com/rob_dll_dev">
    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=#40ABF2" />
-</a>&nbsp;&nbsp;
-<br>
-
+</a>
 <br>
 
 :technologist:  I'm a Digital Nomad with a highly focused problem-solving mindset.  
 :hammer_and_wrench:  Working since 2010 with both startups and enterprise.  
 :writing_hand:  Writing about Javascript  
-:book:  Studying cybersecurity on HackTheBox.  
-:heartbeat:  Learning with the help of the opensource community  
+:book: Learning with the help of the opensource community    
+:heartbeat: Mentoring people to become developers  
 :family_man_woman_girl_girl:  Living with my lovely wife in Brasil
 
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=robdll)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=robdll&theme=onedark&rank=SECRET,S,AAA,AA,A,B)
 <br>
