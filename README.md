@@ -51,5 +51,6 @@
 <img src="https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" />
 ![docker](https://img.shields.io/badge/docker-%2340ABF2.svg?&style=for-the-badge&logo=docker&logoColor=white)
 <img src="https://camo.githubusercontent.com/a9a6331c55317d11d34ac8978cc80493d91e4b4a1bedfe3ec7b5d7610d007a47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532532302d2532334646393930302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" />
+![MongoDB](https://img.shields.io/badge/mongoDB-%90A09DF2.svg?&style=for-the-badge&logo=mongodb&logoColor=black)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
 
