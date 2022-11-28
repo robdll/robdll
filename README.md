@@ -20,11 +20,10 @@
 <br>
 
 :technologist:  I'm a Digital Nomad with a highly focused problem-solving mindset.  
-:hammer_and_wrench:  Working since 2010 with both startups and enterprise.  
-:writing_hand:  Writing about Javascript  
-:book: Learning with the help of the opensource community    
+:hammer_and_wrench:  Working since 2010 with both startups and enterprises.  
+:writing_hand:  Writing about Javascript.
 :heartbeat: Mentoring people to become developers  
-:family_man_woman_girl_girl:  Living with my lovely wife in Brasil
+:family_man_woman_girl_girl:  Living with my lovely wife
 
 
 <br>
