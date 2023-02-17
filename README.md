@@ -21,7 +21,7 @@
 
 :technologist:  I'm a Digital Nomad with a highly focused problem-solving mindset.  
 :hammer_and_wrench:  Working since 2010 with both startups and enterprises.  
-:writing_hand:  Writing about Javascript.  
+:writing_hand:  [Writing](https://blog.robertodilillo.dev) about Javascript and other development subjects.  
 :heartbeat: Mentoring people to become developers.  
 :family_man_woman_girl_girl:  Living with my lovely [wife](https://github.com/CintyaFlo).
 
