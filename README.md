@@ -50,6 +50,7 @@
 
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![Node](https://img.shields.io/badge/node-%2346954A.svg?&style=for-the-badge)
 ![docker](https://img.shields.io/badge/docker-%2340ABF2.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-%90A09DF2.svg?&style=for-the-badge&logo=mongodb&logoColor=black)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
