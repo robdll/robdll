@@ -20,7 +20,7 @@
    <img src="https://img.shields.io/badge/-MyBlog-orange?&style=for-the-badge" />
 </a>
 -->
-
+<br>
 <br>
 
 :technologist:  I'm a Digital Nomad with a highly focused problem-solving mindset.  
