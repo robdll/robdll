@@ -7,9 +7,11 @@
 <a href="https://www.linkedin.com/in/roberto-di-lillo/" style="text-decoration:none;">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<!--
 <a href="https://blog.robertodilillo.dev" style="text-decoration:none;">
    <img src="https://img.shields.io/badge/-MyBlog-orange?&style=for-the-badge" />
 </a>
+-->
 <a href="mailto:dilillo.roberto@gmail.com" style="text-decoration:none;">
    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
