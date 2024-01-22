@@ -7,17 +7,18 @@
 <a href="https://www.linkedin.com/in/roberto-di-lillo/" style="text-decoration:none;">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<!--
-<a href="https://blog.robertodilillo.dev" style="text-decoration:none;">
-   <img src="https://img.shields.io/badge/-MyBlog-orange?&style=for-the-badge" />
-</a>
--->
 <a href="mailto:dilillo.roberto@gmail.com" style="text-decoration:none;">
    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://twitter.com/rob_dll_dev" style="text-decoration:none;">
    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=#40ABF2" />
 </a>
+<!--
+<a href="https://blog.robertodilillo.dev" style="text-decoration:none;">
+   <img src="https://img.shields.io/badge/-MyBlog-orange?&style=for-the-badge" />
+</a>
+-->
+
 <br>
 
 :technologist:  I'm a Digital Nomad with a highly focused problem-solving mindset.  
